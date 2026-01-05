@@ -4,10 +4,15 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+<<<<<<< HEAD
 import jakarta.persistence.Table;
 
 @Entity
 @Table(name = "users")
+=======
+
+@Entity
+>>>>>>> 3c7c0fb4cd5da4cdff2e4306388b7753fd69d1d1
 public class User {
 
     @Id
