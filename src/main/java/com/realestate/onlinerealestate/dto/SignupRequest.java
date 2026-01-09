@@ -1,6 +1,6 @@
 package com.realestate.onlinerealestate.dto;
 
-public class LoginRequest {
+public class SignupRequest {
 
     private String email;
     private String password;
